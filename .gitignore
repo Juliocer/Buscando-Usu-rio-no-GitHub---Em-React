@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+links das API 
+https://api.github.com/users/Juliocer > Retorna o dados do Usuario
+https://api.github.com/users/Juliocer/repos > Retorna os Repositórios do Usuario
